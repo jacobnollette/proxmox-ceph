@@ -1,4 +1,4 @@
 #!/bin/bash
 
 ./ceph-rebalance.sh
-./osd-deepScrub-all.sh
+#./osd-deepScrub-all.sh

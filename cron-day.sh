@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./osd-deepScrub-fix.sh
+./osd-deepScrub-all.sh
